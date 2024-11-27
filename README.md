@@ -26,7 +26,7 @@ cd CSS-Animation-Project
 
 Open the project:
 
-Open the index.html file in your browser to view the piano.
+Open the index.html file in your browser to view the ferris wheel.
 
 ## Project Structure
 
